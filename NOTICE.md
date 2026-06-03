@@ -9,5 +9,5 @@ The recurring character "小黑" is part of Ian's visual language for Chinese ar
 Author links:
 
 - GitHub: <https://github.com/helloianneo>
-- Website: <https://ianneo.xyz>
+- Website: <https://www.ianneo.xyz/opc>
 - X/Twitter: <https://x.com/ianneo_ai>
